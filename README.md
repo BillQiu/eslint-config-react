@@ -3,7 +3,7 @@
 ### 安装
 
 ```bash
-$ npm install --save-dev @souche-f2e/eslint-config-react
+$ npm install --save-dev eslint-config-react-bill
 ```
 
 ### 配置
@@ -13,6 +13,6 @@ $ npm install --save-dev @souche-f2e/eslint-config-react
 ```javascript
 module.exports = {
     root: true,
-    extends: '@souche-f2e/eslint-config-react'
+    extends: 'eslint-config-react-bill'
 };
 ```

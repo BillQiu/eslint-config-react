@@ -1,7 +1,7 @@
 {
-  "name": "@souche-f2e/eslint-config-react",
-  "version": "0.4.2",
-  "description": "eslint for react",
+  "name": "eslint-config-react-bill",
+  "version": "1.0.0",
+  "description": "personal eslint rules for react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
